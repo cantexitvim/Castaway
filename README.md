@@ -3,7 +3,7 @@
 Simple landing page for practice.
 
 ## Demo
-https://breeze-git.github.io/Castaway/
+https://cantexitvim.github.io/Castaway/
 
 ## Technologies
 - HTML
